@@ -42,7 +42,12 @@
 -
 
 ## Cuestiones importantes para el uso
--
+- Para mejorar la jugabilidad, se recomienda usar un mando de Play Station 4 el cual ha sido configurado previamente.
+
+![mando ps4](./images/MandoPlay.png)
+
+- El mando tendrá la siguiente configuración de teclas:
+  - **Joystick Izquierdo:** Utilizado para mover al jugador
 
 ## Hitos de programación logrados
 -
@@ -60,13 +65,19 @@
 -
 
 ## Enlaces de interés
--
-### Gameplay del juego
--
-### APK
--
-### Github del Proyecto completo
--
+- A continuación puede encontrar algunos enlaces que pueden resultar de su interés:
+
+  ### Gameplay del juego
+  - En el siguiente enlace puede encontrar una demostración del juego realizado:
+    - [Enlace al vídeo del juego]()
+  
+  ### APK
+  - En el siguiente enlace puede encontrar la apk para dispositivos Android, la cual podrá descargar y probar:
+    - [Enlace al APK]()
+   
+  ### Github del Proyecto completo
+  - En el siguiente enlace encontra la dirección en la que se encuentra el proyecto completo para su ejecución en Unity:
+    - [Enlace al proyecto]() 
 
 ## Posibles mejoras a futuro
 -
