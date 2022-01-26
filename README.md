@@ -57,6 +57,7 @@
 
 - El mando tendrá la siguiente configuración de teclas:
   - **Joystick Izquierdo:** Utilizado para mover al jugador
+  - **Pulsacion del panel tactil:** Utilizado para interaccionar con los elementos de la escena(perros/botones)
 
 ## Hitos de programación logrados
 -
