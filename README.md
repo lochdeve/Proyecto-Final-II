@@ -45,10 +45,16 @@
     - Monstruos: Utilizados para la simulación del funcionamiento del Simon Dice original.
 
 ## Estructura de los scripts
--
+- Canvas
+  - [animationFigureController.cs](./scripts/animationFigureController.cs)
+  - [movement.cs](./scripts/movement.cs)
+  - [play.cs](./scripts/play.cs)
 
 ## Elementos externos usados
--
+Los elementos usado los hemos sacado de la Asset Store.
+- Montruos
+- Contenido del bosque
+- Audios
 
 ## Cuestiones importantes para el uso
 - Para mejorar la jugabilidad, se recomienda usar un mando de Play Station 4 el cual ha sido configurado previamente.
@@ -60,10 +66,22 @@
   - **Pulsacion del panel tactil:** Utilizado para interaccionar con los elementos de la escena(perros/botones)
 
 ## Hitos de programación logrados
--
+Para el desarrollo se han cumplido varias espectativas.
+
+- Utilizacion de distancia entre dos objetos para la activacion del botón de play.
+- Deteccion de eventos
+- Deteccion de teclas de movimiento
+- Programacion de animaciones de los monstruos
+- Utilizacion de corutinas para poder utilizar retardos
+- Sincronizacion de animaciones con sonidos
 
 ## Aspectos destacables del juego
--
+- Realismo
+  - Uso de sonidos de pasos para hacerlo mas realista
+  - Uso de sonido de fondo de hoguera mas sonido neutral
+- Uso de Rigidbody y Meshcollider para poder delimitar la zona de desplazamiento del jugador y guiarlo hacia el juego.
+- Control de distancia del jugador al juego para que en el caso de que el jugador se aleje de la zona de juego el juego se cancele.
+
 
 ## Metodología de trabajo
 -
@@ -76,18 +94,12 @@
 
 ## Enlaces de interés
 - A continuación puede encontrar algunos enlaces que pueden resultar de su interés:
-
-  ### Gameplay del juego
-  - En el siguiente enlace puede encontrar una demostración del juego realizado:
-    - [Enlace al vídeo del juego]()
   
   ### APK
   - En el siguiente enlace puede encontrar la apk para dispositivos Android, la cual podrá descargar y probar:
     - [Enlace al APK]()
    
-  ### Github del Proyecto completo
-  - En el siguiente enlace encontra la dirección en la que se encuentra el proyecto completo para su ejecución en Unity:
-    - [Enlace al proyecto]() 
 
 ## Posibles mejoras a futuro
--
+- Se podria añadir complejidad añadiendo mas acciones de los monstruos las cuales tendras que memorizar y segun que boton pulses activaras una accion u otra de tal manera que podria un monstruo realizar una accion por ejemplo movimiento de cabeza y luego otro podria hacer animacion de atacar y asi el jugador deberia memorizar el orden y que accion hacia que monstruo.
+
