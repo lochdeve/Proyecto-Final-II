@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 using CameraFading;
 
 
-public class animationFigureController : MonoBehaviour
+public class behaviour : MonoBehaviour
 {
     Animator animator, animator2, animator3;
     AudioSource audioSource;
@@ -46,7 +46,7 @@ public class animationFigureController : MonoBehaviour
         
         characterEvent.triggers.Add(SetEvent(0,animator));
         characterEvent2.triggers.Add(SetEvent(1,animator2));
-        characterEvent3.triggers.Add(SetEvent(2,animator3)); 
+        characterEvent3.triggers.Add(SetEvent(2,animator3));
 
         play.start += startGame;
         play.finish += finishGame;

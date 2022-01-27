@@ -1,0 +1,420 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-63:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\08589d4756f2dd0a09530cfb2bf364f5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a757d374936f56957cf396b5c7614962\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\1b88823732f989f8fc8f76a1206dbe2a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\965ded5f37706c3ce167189d6ddf288f\AndroidManifest.xml:2:1-9:12
+MERGED from [:gvr-keyboard:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\922138f5c44eda1c577baf118f3a674b\AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\cbbc93f2dab89340cf4ba6bb8fc35978\AndroidManifest.xml:2:1-9:12
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:2:1-51:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7bb4f1937218dd05709f16e672009b73\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ffc33925e8438f38dc7ba7338396d880\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\9e487cc6ffd62019f81128684f76dc7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a4b480829ca900fc69ed3706a0997d43\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2355170f04ec7f0e3ea57417278667d3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3cac9b1ccab0d0b90f09b4370078d7bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\8f1ddff81e85abc66cfde308fd608e30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3a7c0200e97bb2c26af39c690afd4bdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b8116952cedea56b543866d462bd0a83\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3392610a7c1aef55af16c0b316b4ae7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e661661253ff6baa8d3bb5dae5377f25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0d49ccea1878566888a0bcc546cf0d8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\85dda3bf4b628bbe67f4f0c3e619d1bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0391ab2a04e4c9249d8c1c9f7b54af9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\bad334ef6231105758b75b54de3a80f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\f32654890516782c0524d30f14c3e783\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6926e591efd7d9ec75eadd112c4a922\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\50cdc21a36a324e7574e33cbaacf8443\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\f52cf7452e09c5644bc47b5ed9d8ace6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b9999f2cc5250dd23efd31d3abbd792a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\cf429045cdd188f15a643f644e357aa8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\03c3dabee80bf50246984d0084a4260d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0b3b34302dfaefea888f0fd87e2daecc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e5197bf9f41c6a0dff9d0b8a9ab1ff61\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\6921bac08f9abdcecc4c9262bacfd5f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ee80e83523cca45ecde8a1f02942e7a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7608b0123f20de5f2830f8568fd85d97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\85df49006d43c48974926a8d02e01a3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\9c63fb9dff51e6204b52abfab69d0948\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\601af0ed6ce3798d1d93a75acaa9dcce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e039576da45c0f8682cac9aabcfbdeff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2cb814b74e8c8407603279adbed5f607\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\5225ff616e3d12cd081281792a470148\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0f6a43983c2728d4114fc8f8677629ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b7677d53e513182e230f952f938ad5e5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-109
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:110-156
+	android:versionCode
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:157-197
+supports-screens
+ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-61:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\08589d4756f2dd0a09530cfb2bf364f5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\08589d4756f2dd0a09530cfb2bf364f5\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\1b88823732f989f8fc8f76a1206dbe2a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\1b88823732f989f8fc8f76a1206dbe2a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\965ded5f37706c3ce167189d6ddf288f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\965ded5f37706c3ce167189d6ddf288f\AndroidManifest.xml:7:5-20
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:11:5-28:19
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:24:5-49:19
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:24:5-49:19
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7bb4f1937218dd05709f16e672009b73\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7bb4f1937218dd05709f16e672009b73\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ffc33925e8438f38dc7ba7338396d880\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ffc33925e8438f38dc7ba7338396d880\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a4b480829ca900fc69ed3706a0997d43\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a4b480829ca900fc69ed3706a0997d43\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2355170f04ec7f0e3ea57417278667d3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2355170f04ec7f0e3ea57417278667d3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0b3b34302dfaefea888f0fd87e2daecc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0b3b34302dfaefea888f0fd87e2daecc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e5197bf9f41c6a0dff9d0b8a9ab1ff61\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e5197bf9f41c6a0dff9d0b8a9ab1ff61\AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:18-61
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0b3b34302dfaefea888f0fd87e2daecc\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\08589d4756f2dd0a09530cfb2bf364f5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\08589d4756f2dd0a09530cfb2bf364f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a757d374936f56957cf396b5c7614962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a757d374936f56957cf396b5c7614962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\1b88823732f989f8fc8f76a1206dbe2a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\1b88823732f989f8fc8f76a1206dbe2a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\965ded5f37706c3ce167189d6ddf288f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\965ded5f37706c3ce167189d6ddf288f\AndroidManifest.xml:5:5-44
+MERGED from [:gvr-keyboard:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\922138f5c44eda1c577baf118f3a674b\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\922138f5c44eda1c577baf118f3a674b\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\cbbc93f2dab89340cf4ba6bb8fc35978\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\cbbc93f2dab89340cf4ba6bb8fc35978\AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:7:5-9:41
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7bb4f1937218dd05709f16e672009b73\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7bb4f1937218dd05709f16e672009b73\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ffc33925e8438f38dc7ba7338396d880\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ffc33925e8438f38dc7ba7338396d880\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\9e487cc6ffd62019f81128684f76dc7b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\9e487cc6ffd62019f81128684f76dc7b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a4b480829ca900fc69ed3706a0997d43\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a4b480829ca900fc69ed3706a0997d43\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2355170f04ec7f0e3ea57417278667d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2355170f04ec7f0e3ea57417278667d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3cac9b1ccab0d0b90f09b4370078d7bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3cac9b1ccab0d0b90f09b4370078d7bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\8f1ddff81e85abc66cfde308fd608e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\8f1ddff81e85abc66cfde308fd608e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3a7c0200e97bb2c26af39c690afd4bdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3a7c0200e97bb2c26af39c690afd4bdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b8116952cedea56b543866d462bd0a83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b8116952cedea56b543866d462bd0a83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3392610a7c1aef55af16c0b316b4ae7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\3392610a7c1aef55af16c0b316b4ae7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e661661253ff6baa8d3bb5dae5377f25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e661661253ff6baa8d3bb5dae5377f25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0d49ccea1878566888a0bcc546cf0d8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0d49ccea1878566888a0bcc546cf0d8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\85dda3bf4b628bbe67f4f0c3e619d1bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\85dda3bf4b628bbe67f4f0c3e619d1bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0391ab2a04e4c9249d8c1c9f7b54af9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0391ab2a04e4c9249d8c1c9f7b54af9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\bad334ef6231105758b75b54de3a80f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\bad334ef6231105758b75b54de3a80f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\f32654890516782c0524d30f14c3e783\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\f32654890516782c0524d30f14c3e783\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6926e591efd7d9ec75eadd112c4a922\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6926e591efd7d9ec75eadd112c4a922\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\50cdc21a36a324e7574e33cbaacf8443\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\50cdc21a36a324e7574e33cbaacf8443\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\f52cf7452e09c5644bc47b5ed9d8ace6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\f52cf7452e09c5644bc47b5ed9d8ace6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b9999f2cc5250dd23efd31d3abbd792a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b9999f2cc5250dd23efd31d3abbd792a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\cf429045cdd188f15a643f644e357aa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\cf429045cdd188f15a643f644e357aa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\03c3dabee80bf50246984d0084a4260d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\03c3dabee80bf50246984d0084a4260d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0b3b34302dfaefea888f0fd87e2daecc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0b3b34302dfaefea888f0fd87e2daecc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e5197bf9f41c6a0dff9d0b8a9ab1ff61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e5197bf9f41c6a0dff9d0b8a9ab1ff61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\6921bac08f9abdcecc4c9262bacfd5f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\6921bac08f9abdcecc4c9262bacfd5f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ee80e83523cca45ecde8a1f02942e7a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\ee80e83523cca45ecde8a1f02942e7a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7608b0123f20de5f2830f8568fd85d97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\7608b0123f20de5f2830f8568fd85d97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\85df49006d43c48974926a8d02e01a3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\85df49006d43c48974926a8d02e01a3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\9c63fb9dff51e6204b52abfab69d0948\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\9c63fb9dff51e6204b52abfab69d0948\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\601af0ed6ce3798d1d93a75acaa9dcce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\601af0ed6ce3798d1d93a75acaa9dcce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e039576da45c0f8682cac9aabcfbdeff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\e039576da45c0f8682cac9aabcfbdeff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2cb814b74e8c8407603279adbed5f607\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\2cb814b74e8c8407603279adbed5f607\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\5225ff616e3d12cd081281792a470148\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\5225ff616e3d12cd081281792a470148\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0f6a43983c2728d4114fc8f8677629ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\0f6a43983c2728d4114fc8f8677629ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b7677d53e513182e230f952f938ad5e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\b7677d53e513182e230f952f938ad5e5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:15:5-17:35
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:15:5-17:35
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+	android:required
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:17:9-32
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-67
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:21:5-67
+MERGED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:9-60:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\carlo\Desktop\SimonDice\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-42
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:24:13-27:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:26:17-80
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c571dbe456a93e63448cba02aa85bf47\AndroidManifest.xml:26:27-77
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\a6a3a6f6f08142d417b0eaac6c983006\AndroidManifest.xml:18:13-81
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.NFC
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:22:5-62
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:22:22-59
+activity#com.google.cardboard.sdk.QrCodeCaptureActivity
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:25:9-29:66
+	android:label
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:28:13-67
+	android:exported
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:26:13-74
+activity#com.google.cardboard.sdk.HeadsetDetectionActivity
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:35:9-48:20
+	android:label
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:38:13-69
+	android:exported
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:36:13-77
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:scheme:cardboard
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:41:13-47:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:42:25-74
+category#android.intent.category.DEFAULT
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:44:27-73
+data
+ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:46:17-52
+	android:scheme
+		ADDED from [:sdk:] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\416c998662eb79549ee8509b02434a6c\AndroidManifest.xml:46:23-49
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\937e09f7984093fb30b1e148fbd22630\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\carlo\.gradle\caches\transforms-2\files-2.1\c9e24318158c6883fa4b322b18d9a4fa\AndroidManifest.xml:24:13-58

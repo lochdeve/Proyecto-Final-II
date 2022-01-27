@@ -49,6 +49,7 @@
   - [behaviour.cs](./scripts/behaviour.cs)
   - [movement.cs](./scripts/movement.cs)
   - [play.cs](./scripts/play.cs)
+  - [compass.cs](./scripts/Compass.cs)
 
 ## Elementos externos usados
 - Los elementos que hemos usado para el desarrollo del juego, han sido descargados de la **Asset Store**. A continuación, mostramos la lista:

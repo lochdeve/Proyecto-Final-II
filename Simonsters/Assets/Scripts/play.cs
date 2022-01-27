@@ -37,7 +37,7 @@ public class play : MonoBehaviour
            }
          });
         buttonEvent.triggers.Add(entry);
-        animationFigureController.lose += lose;
+        behaviour.lose += lose;
     }
 
     void lose() {

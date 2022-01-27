@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - CameraFading.CameraFade
     Assembly-CSharp.dll:
     - CameraPointer
+    - Compass
     - GvrArmModel
     - GvrControllerInput
     - GvrControllerReticleVisual
@@ -17,7 +18,7 @@ ScriptsOnlyBuild:
     - GvrPointerPhysicsRaycaster
     - GvrReticlePointer
     - GvrTrackedController
-    - animationFigureController
+    - behaviour
     - movement
     - play
     Google.XR.Cardboard.dll:
@@ -32,8 +33,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -46,6 +49,7 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.EventTrigger
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.RawImage
     UnityEngine.XR.LegacyInputHelpers.dll:
     - UnityEditor.XR.LegacyInputHelpers.CameraOffset
   sceneClasses:
@@ -123,6 +127,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12768}
     - Class: 114
+      Script: {instanceID: 12780}
+    - Class: 114
       Script: {instanceID: 13078}
     - Class: 114
       Script: {instanceID: 13182}
@@ -148,6 +154,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13870}
     - Class: 114
       Script: {instanceID: 13898}
+    - Class: 114
+      Script: {instanceID: 247554}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -173,6 +181,8 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
       Script: {instanceID: 0}
     - Class: 223
       Script: {instanceID: 0}
@@ -787,10 +797,10 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: ec962fafc02d941ea5bd471c59709da8
+      Hash: e830fb924729d521bcd5a21e8a562f25
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: animationFigureController
+    className: behaviour
   - hash:
       serializedVersion: 2
       Hash: 89c433fef753b02de32958d7fe54cc06
@@ -1037,7 +1047,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Compass
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/carlo/Desktop/SimonDice/SimonDice.apk
+  playerPath: C:/Users/carlo/Desktop/SimonDice/Simonsters.apk
