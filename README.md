@@ -90,7 +90,14 @@ Para el desarrollo se han cumplido varias espectativas.
 -
 
 ## Gifs de demostración del juego
--
+- Demo
+![Demo](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/demo.gif)
+- Animacion de fail
+![Animacion de fail](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/pierde.gif) 
+- Entorno
+![Entorno](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/ojeada.gif)
+- Animacion de boton
+![Animacion de boton](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/distancia.gif)
 
 ## Enlaces de interés
 - A continuación puede encontrar algunos enlaces que pueden resultar de su interés:
