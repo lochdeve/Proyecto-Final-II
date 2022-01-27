@@ -128,7 +128,7 @@ Como habíamos comentado anteriormente, para el desarollo del juego se han aplic
 - A continuación puede encontrar algunos enlaces que pueden resultar de su interés:
   ### Gameplay del juego
   - En el siguiente enlace puede encontrar una demostración del juego realizado:
-    - [Enlace al vídeo del juego](https://drive.google.com/file/d/1hzqNp8U285nmJ2OsGPHD9R49x6mKDzPK/view)
+    - [Enlace al vídeo del juego](https://drive.google.com/file/d/1jU1c5tbV181Rf4PRgbY1J6Y8MNMru2lF/view?usp=sharing)
 
   ### APK
   - En el siguiente enlace puede encontrar la apk para dispositivos Android, la cual podrá descargar y probar:
