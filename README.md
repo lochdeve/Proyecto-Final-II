@@ -19,7 +19,7 @@
 - [Enlaces de interés](#enlaces-de-interés)
   - [Gameplay del juego](#gameplay-del-juego)
   - [APK](#apk)
-  - [Github del Proyecto completo](#github-del-proyecto-completo)
+  - [Github del Proyecto para Unity](#github-del-proyecto-para-unity)
 - [Posibles mejoras a futuro](#posibles-mejoras-a-futuro)
 
 ## Autores
@@ -51,10 +51,11 @@
   - [play.cs](./scripts/play.cs)
 
 ## Elementos externos usados
-Los elementos usado los hemos sacado de la Asset Store.
-- Montruos
-- Contenido del bosque
-- Audios
+- Los elementos que hemos usado para el desarrollo del juego, han sido descargados de la **Asset Store**. A continuación, mostramos la lista:
+  - Montruos
+  - Contenido del bosque(flora)
+  - Niebla
+  - Audios
 
 ## Cuestiones importantes para el uso
 - Para mejorar la jugabilidad, se recomienda usar un mando de Play Station 4 el cual ha sido configurado previamente.
@@ -63,7 +64,7 @@ Los elementos usado los hemos sacado de la Asset Store.
 
 - El mando tendrá la siguiente configuración de teclas:
   - **Joystick Izquierdo:** Utilizado para mover al jugador
-  - **Pulsacion del panel tactil:** Utilizado para interaccionar con los elementos de la escena(perros/botones)
+  - **Pulsación del panel táctil:** Utilizado para interaccionar con los elementos de la escena(monstruos/botones)
 
 ## Hitos de programación logrados
 Para el desarrollo se han cumplido varias espectativas.
@@ -101,10 +102,17 @@ Para el desarrollo se han cumplido varias espectativas.
 
 ## Enlaces de interés
 - A continuación puede encontrar algunos enlaces que pueden resultar de su interés:
-  
+  ### Gameplay del juego
+  - En el siguiente enlace puede encontrar una demostración del juego realizado:
+    - [Enlace al vídeo del juego]()
+
   ### APK
   - En el siguiente enlace puede encontrar la apk para dispositivos Android, la cual podrá descargar y probar:
     - [Enlace al APK](https://drive.google.com/file/d/1RY_FbbeazncxzWqu2AbKAqmCv6-LEY8c/view?usp=sharing)
+
+  ### Github del Proyecto para Unity
+  - En el siguiente enlace encontrará la dirección en la que se encuentra el proyecto completo para su ejecución en Unity:
+    - [Enlace al proyecto](https://github.com/lochdeve/Proyecto-Final-II/tree/main/SimonDice)
    
 
 ## Posibles mejoras a futuro
