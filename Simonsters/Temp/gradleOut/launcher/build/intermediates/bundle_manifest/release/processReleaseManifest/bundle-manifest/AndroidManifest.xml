@@ -76,7 +76,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="e95e16a9-ae08-4cea-b9e6-05d823c63fb8" /> <!-- For enableVrMode use the value vs. the string so Unity can build it. -->
+            android:value="60392011-e67c-4031-b3e1-14e8fb6c044f" /> <!-- For enableVrMode use the value vs. the string so Unity can build it. -->
         <activity
             android:name="com.google.gvr.keyboardsupport.TransitionVRActivity"
             android:configChanges="density|keyboardHidden|navigation|orientation|screenSize|uiMode"
