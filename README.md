@@ -29,11 +29,11 @@
   - Andrés Zeus Hernández Impini - alu0101207957@ull.edu.es
 
 ## Introducción
-- El juego desarrollado con el nombre de **Simon Dice**, es un juego de **realidad virtual(VR)** desarrollado para dispositivos Android con Unity 3D.
+- El juego desarrollado con el nombre de **The Monsters Say**, es un juego de **realidad virtual(VR)** desarrollado para dispositivos Android con Unity 3D.
   El mismo ha sido desarrollado a partir de diversas técnicas y conocimientos adquiridos durante la realización de la materia, además de algunas otras características que han sido necesarias aprender durante la realización del proyecto para su correcto funcionamiento.
 
   ### Descripción del juego
-  - Cuando decides iniciar una partida en el juego que hemos desarrollado **Simon Dice**, aparecerás en un escenario oscuro(simulando un bosque nocturno), el cual tiene un camino que te conduce hacia la jugabilidad del **Simon Dice**. Una vez te acerques a la zona, te aparecerá un botón para comenzar a jugar. Si inicias una partida, puedes cancelar la misma pulsando el botón que aparece en la escena o alejándote de la zona de juego. En caso de equivocarte durante la partida, habrás perdido y deberás comenzar una nueva, en caso contrario, podrás llegar hasta un máximo de 10 niveles.
+  - Cuando decides iniciar una partida en el juego que hemos desarrollado **The Monsters Say**, aparecerás en un escenario oscuro(simulando un bosque nocturno), el cual tiene un camino que te conduce hacia la jugabilidad del **The Monsters Say**, que es una variante del **Simon Dice**. Una vez te acerques a la zona, te aparecerá un botón para comenzar a jugar. Si inicias una partida, puedes cancelar la misma pulsando el botón que aparece en la escena o alejándote de la zona de juego. En caso de equivocarte durante la partida, habrás perdido y deberás comenzar una nueva, en caso contrario, podrás llegar hasta un máximo de 10 niveles.
   
   ### Descripción del mapa
   - En el mapa que compone la escena desarrollada, podemos encontrar diferentes objetos, los cuales son:
@@ -67,14 +67,15 @@
   - **Pulsación del panel táctil:** Utilizado para interaccionar con los elementos de la escena(monstruos/botones)
 
 ## Hitos de programación logrados
-Para el desarrollo se han cumplido varias espectativas.
+Como habíamos comentado anteriormente, para el desarollo del juego se han aplicado diversas técnicas y conocimientos adquiridos durante la realización de la materia, además de otras características que han sido necesarias aprender durante la realización del mismo. A continuación, listamos algunos de ellos:
 
-- Utilizacion de distancia entre dos objetos para la activacion del botón de play.
-- Deteccion de eventos
-- Deteccion de teclas de movimiento
-- Programacion de animaciones de los monstruos
-- Utilizacion de corutinas para poder utilizar retardos
-- Sincronizacion de animaciones con sonidos
+- Utilización de distancia entre dos objetos para la activación del botón de play
+- Aplicación de Delegados y Eventos
+- Aplicación de movimiento mediante teclas
+- Programación de animaciones
+- Utilización de corutinas para poder utilizar retardos
+- Sincronización de animaciones con sonidos
+- Uso de elementos de la Asset Store(flora, monstruos,...)
 
 ## Aspectos destacables del juego
 - Realismo
