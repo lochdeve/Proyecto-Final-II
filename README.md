@@ -13,7 +13,6 @@
 - [Cuestiones importantes para el uso](#cuestiones-importantes-para-el-uso)
 - [Hitos de programación logrados](#hitos-de-programación-logrados)
 - [Aspectos destacables del juego](#aspectos-destacables-del-juego)
-- [Metodología de trabajo](#metodología-de-trabajo)
 - [Reparto de tareas](#reparto-de-tareas)
 - [Gifs de demostración del juego](#gifs-de-demostración-del-juego)
 - [Enlaces de interés](#enlaces-de-interés)
@@ -84,21 +83,36 @@ Como habíamos comentado anteriormente, para el desarollo del juego se han aplic
 - Uso de Rigidbody y Meshcollider para poder delimitar la zona de desplazamiento del jugador y guiarlo hacia el juego.
 - Control de distancia del jugador al juego para que en el caso de que el jugador se aleje de la zona de juego el juego se cancele.
 
-
-## Metodología de trabajo
--
-
 ## Reparto de tareas
--
+- Eduardo Expósito Barrera
+  - Comportamiento dinámico del botón
+  - Ideas para mejora del algoritmo para secuencia
+
+- Cristo García González
+  - Ideas para mejora del algoritmo para secuencia
+  - Creación de la decoración del escenario
+
+- Carlos García González
+  - Configuración del sistema Unity
+  - Implementación del algortimo base 
+
+- Andrés Zeus Hernández Impini
+  - Sincronización de sonidos con las animaciones
+  - Delimitación de la zona de juego
+  
+- Tareas Comunes
+  - Implementación del movimiento del jugador 
+  - Búsqueda de Assets 
+  - Documentación 
 
 ## Gifs de demostración del juego
 - Demo
 ![Demo](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/demo.gif)
-- Animacion de fail
+- Animación de fail
 ![Animacion de fail](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/pierde.gif) 
 - Entorno
 ![Entorno](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/ojeada.gif)
-- Animacion de boton
+- Animación de botón
 ![Animacion de boton](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/distancia.gif)
 
 ## Enlaces de interés
@@ -117,5 +131,5 @@ Como habíamos comentado anteriormente, para el desarollo del juego se han aplic
    
 
 ## Posibles mejoras a futuro
-- Se podria añadir complejidad añadiendo mas acciones de los monstruos las cuales tendras que memorizar y segun que boton pulses activaras una accion u otra de tal manera que podria un monstruo realizar una accion por ejemplo movimiento de cabeza y luego otro podria hacer animacion de atacar y asi el jugador deberia memorizar el orden y que accion hacia que monstruo.
+- Se podría añadir complejidad añadiendo más acciones de los monstruos las cuales tendrás que memorizar y según que botón pulses activarás una acción u otra de tal manera que podría un monstruo realizar una acción por ejemplo movimiento de cabeza y luego otro podría hacer animación de atacar y así el jugador debería memorizar el orden y que acción hacia que monstruo.
 
