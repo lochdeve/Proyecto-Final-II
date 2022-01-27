@@ -45,7 +45,7 @@
     - Monstruos: Utilizados para la simulación del funcionamiento del Simon Dice original.
 
 ## Estructura de los scripts
-- Canvas
+- Scripts desarrollados:
   - [animationFigureController.cs](./scripts/animationFigureController.cs)
   - [movement.cs](./scripts/movement.cs)
   - [play.cs](./scripts/play.cs)
@@ -109,11 +109,11 @@ Como habíamos comentado anteriormente, para el desarollo del juego se han aplic
 
   ### APK
   - En el siguiente enlace puede encontrar la apk para dispositivos Android, la cual podrá descargar y probar:
-    - [Enlace al APK](https://drive.google.com/file/d/1RY_FbbeazncxzWqu2AbKAqmCv6-LEY8c/view?usp=sharing)
+    - [Enlace al APK](https://github.com/lochdeve/Proyecto-Final-II/tree/main/apk)
 
   ### Github del Proyecto para Unity
   - En el siguiente enlace encontrará la dirección en la que se encuentra el proyecto completo para su ejecución en Unity:
-    - [Enlace al proyecto](https://github.com/lochdeve/Proyecto-Final-II/tree/main/SimonDice)
+    - [Enlace al proyecto](https://github.com/lochdeve/Proyecto-Final-II/tree/main/Simonsters)
    
 
 ## Posibles mejoras a futuro
