@@ -32,7 +32,7 @@
   El mismo ha sido desarrollado a partir de diversas técnicas y conocimientos adquiridos durante la realización de la materia, además de algunas otras características que han sido necesarias aprender durante la realización del proyecto para su correcto funcionamiento.
 
   ### Descripción del juego
-  - Cuando decides iniciar una partida en el juego que hemos desarrollado **Simonsters**, aparecerás en un escenario oscuro(simulando un bosque nocturno), el cual tiene un camino que te conduce hacia la jugabilidad del **Simonsters**, que es una variante del **Simon**. Una vez te acerques a la zona, te aparecerá un botón para comenzar a jugar. Si inicias una partida, puedes cancelar la misma pulsando el botón que aparece en la escena o alejándote de la zona de juego. En caso de equivocarte durante la partida, habrás perdido y deberás comenzar una nueva, en caso contrario, podrás llegar hasta un máximo de 10 niveles.
+  - Cuando decides iniciar una partida en el juego que hemos desarrollado **Simonsters**, aparecerás en un escenario oscuro(simulando un bosque nocturno), el cual tiene un camino que te conduce hacia la jugabilidad del **Simonsters**, que es una variante del **Simon**. Una vez te acerques a la zona, te aparecerá un botón para comenzar a jugar. Si inicias una partida, puedes cancelar la misma pulsando el botón que aparece en la escena o alejándote de la zona de juego. En caso de equivocarte durante la partida, habrás perdido y deberás comenzar una nueva. Esta situación, será representada con el rugido de los 3 monstruos y un texto además del oscurecimiento de la pantalla. En caso contrario, podrás llegar hasta un máximo de 5 niveles y será indicado tanto con un texto como con un sonido de victoria y por tanto que has completado todos los niveles posibles y has ganado.
   
   ### Descripción del mapa
   - En el mapa que compone la escena desarrollada, podemos encontrar diferentes objetos, los cuales son:
@@ -41,7 +41,8 @@
     - Antorchas
     - Niebla
     - Diversidad de flora(Pinos, Arbustos,...)
-    - Monstruos: Utilizados para la simulación del funcionamiento del Simon Dice original.
+    - Monstruos: Utilizados para la simulación del funcionamiento del Simon original.
+    - Botones y una brújula
 
 ## Estructura de los scripts
 - Scripts desarrollados:
@@ -74,14 +75,21 @@ Como habíamos comentado anteriormente, para el desarollo del juego se han aplic
 - Programación de animaciones
 - Utilización de corutinas para poder utilizar retardos
 - Sincronización de animaciones con sonidos
+- Utilización de brújula(Parte de Interfaces Multimodales)
 - Uso de elementos de la Asset Store(flora, monstruos,...)
 
 ## Aspectos destacables del juego
-- Realismo
-  - Uso de sonidos de pasos para hacerlo mas realista
-  - Uso de sonido de fondo de hoguera mas sonido neutral
-- Uso de Rigidbody y Meshcollider para poder delimitar la zona de desplazamiento del jugador y guiarlo hacia el juego.
-- Control de distancia del jugador al juego para que en el caso de que el jugador se aleje de la zona de juego el juego se cancele.
+- Con respecto a los aspectos destacables, caben destacar los siguientes:
+  - Aplicación de distintos sonidos para una mejor inmersión en el juego, los cuales son:
+    - Sonido de pasos para hacerlo más realista
+    - Sonido de antorchas y hogueras
+    - Sonido ambiental
+    - Sonido de rugido
+    - Sonido de victoria
+  - Además, se ha limitado el "FoV"(Campo de visión) para tener un área de visualización cómoda y evitaremos el mareo.
+  - Uso de Rigidbody y Meshcollider para poder delimitar la zona de desplazamiento del jugador y guiarlo hacia el juego.
+  - Control de distancia del jugador al juego para que en el caso de que el jugador se aleje de la zona de juego el juego se cancele.
+  - Aplicación de animaciones a los monstruos.
 
 ## Reparto de tareas
 - Eduardo Expósito Barrera
