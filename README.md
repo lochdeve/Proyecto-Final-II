@@ -45,7 +45,7 @@
 
 ## Estructura de los scripts
 - Scripts desarrollados:
-  - [animationFigureController.cs](./scripts/animationFigureController.cs)
+  - [behaviour.cs](./scripts/behaviour.cs)
   - [movement.cs](./scripts/movement.cs)
   - [play.cs](./scripts/play.cs)
 
