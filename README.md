@@ -119,6 +119,8 @@ Como habíamos comentado anteriormente, para el desarollo del juego se han aplic
 ![Demo](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/demo.gif)
 - Animación de fail
 ![Animacion de fail](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/pierde.gif) 
+- Animación de victoria
+![Animacion de fail](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/win.gif) 
 - Entorno
 ![Entorno](https://github.com/lochdeve/Proyecto-Final-II/blob/main/gifs/ojeada.gif)
 - Animación de botón
